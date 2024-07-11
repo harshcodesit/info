@@ -8,6 +8,7 @@
 	 -moz-box-sizing: inherit;
 	 box-sizing: inherit;
 }
+
 .resume{
 	animation: transistionIn 1s;
 }
